@@ -5,6 +5,7 @@
 3rd year Computer Engineer @ Universitatea "Politehnica" Timișoara
 
 Passionate about Full Stack development and AI 
+
 <br/>
 
 ## 🔨 Currently working on
