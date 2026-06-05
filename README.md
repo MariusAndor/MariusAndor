@@ -10,7 +10,7 @@ Passionate about Full Stack development and AI — I enjoy building things end-t
 
 ## 🔨 Currently working on
 
-**[aiMenu](https://github.com/MariusAndor/aiMenu)** — a multi-tenant SaaS platform for managing multiple restaurants from the same system. (Source code available upon request.)
+**[aiMenu](https://github.com/MariusAndor/aiMenu-showcase)** — a multi-tenant SaaS platform for managing multiple restaurants from the same system. (Source code available upon request.)
 
 <br/>
 
@@ -27,7 +27,7 @@ Passionate about Full Stack development and AI — I enjoy building things end-t
 
 <br/>
 
-**🍽️ [aiMenu](https://github.com/MariusAndor/aiMenu)** *(in progress)* — Multi-tenant SaaS for restaurant menus. One deployment, multiple restaurants, each fully isolated. Real-time shared cart per table using SWR polling. Built end-to-end solo.
+**🍽️ [aiMenu](https://github.com/MariusAndor/aiMenu-showcase)** *(in progress)* — Multi-tenant SaaS for restaurant menus. One deployment, multiple restaurants, each fully isolated. Real-time shared cart per table using SWR polling. Built end-to-end solo.
 
 **🎮 [Chess Game](https://github.com/MariusAndor/Chess-Game)** — Multiplayer chess in C over TCP sockets. Strict client-server architecture where the server handles all game logic and state. Clients just render and send moves. Built with NCurses for the terminal UI.
 
