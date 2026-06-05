@@ -2,10 +2,9 @@
 
 <br/>
 
-## 3rd year Computer Engineer @ Universitatea "Politehnica" Timișoara
+3rd year Computer Engineer @ Universitatea "Politehnica" Timișoara
 
-Passionate about Full Stack development and AI — I enjoy building things end-to-end and integrating AI tools into real workflows, not just as a gimmick but as a genuine way to move faster and think clearer.
-
+Passionate about Full Stack development and AI 
 <br/>
 
 ## 🔨 Currently working on
