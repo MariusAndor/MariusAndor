@@ -2,9 +2,9 @@
 
 <br/>
 
-3rd year Computer Engineer @ Universitatea "Politehnica" Timișoara
+- 3rd year Computer Engineer @ Universitatea "Politehnica" Timișoara
 
-Passionate about Full Stack development and AI 
+- Passionate about Full Stack development and AI 
 
 <br/>
 
